@@ -1,0 +1,11 @@
+body {
+    background-color: #2C2F33;
+}
+.title{
+  color: #70ECAB;
+  margin: 5px;
+}
+.titleblock{
+  background-color: #2C2F33;
+  /*padding: 1px 20px;*/
+}
